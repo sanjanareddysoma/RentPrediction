@@ -1,2 +1,27 @@
 # 601RentPrediction
-Developed a machine learning model using Linear Regression to predict residential property rental prices based on various factors such as house size, floor level, city, furnishing status, and number of bathrooms
+# HOUSE RENT PREDICTION
+
+This project is aimed at predicting house rent prices using Python. 
+The project utilizes machine learning techniques to analyze various features of 
+houses and predict their rental prices.
+
+
+## Features
+
+- Libraries used: 
+pandas 
+numpy 
+matplotlib
+seaborn 
+plotly.express 
+pylab
+tensorflow 
+
+- Dataset: dataset has been used from kaggle.com
+           "House_Rent_Dataset.csv" 
+
+## Prerequisites
+
+Before running the code, ensure that you have the necessary libraries installed. 
+pip install catboost
+
