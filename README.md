@@ -1,4 +1,4 @@
-# 601RentPrediction
+# RentPrediction
 # HOUSE RENT PREDICTION
 
 This project is aimed at predicting house rent prices using Python. 
